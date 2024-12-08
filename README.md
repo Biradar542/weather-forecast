@@ -70,4 +70,4 @@ npm run test
 * Jest + Enzyme
 
 #### The MIT License (MIT)
-MIT © 2018 Santhosh Sundar
+MIT © 2024 shubham Biradar
